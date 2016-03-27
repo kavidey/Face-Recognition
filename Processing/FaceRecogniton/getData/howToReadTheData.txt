@@ -1,0 +1,19 @@
+a,b,c,d,e,f
+
+a:
+  width of the face divided by the average width of the eyes
+
+b:
+  height of the face divided by the average height of the eyes
+
+c:
+  width of left eye divided by height
+
+d:
+  width of right eye divided by height
+
+e:
+  area of both eyes divided by the area of the face
+
+f:
+  space between the eyes divided by the area of the face
